@@ -1,5 +1,5 @@
 Product page with figma template
-<p>Html + Css + Js + Responsive design with media query <\p>
+<p> Html + Css + Js + Responsive design with media query </p>
 
 
 
